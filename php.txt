@@ -5,5 +5,7 @@ this is php code
 </style>
 </head>
 <body>
+<script>
+</script>
 </body>
 </html>
